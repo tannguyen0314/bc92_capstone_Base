@@ -1,0 +1,20 @@
+/* @media screen (min-width: 472px) {
+    body {
+        background-color: lightgray;
+        
+    } */
+  
+
+body {
+    background-color: white;
+    
+  }
+.header {
+  background-position: fixed;
+
+}
+
+.quality_service{
+  width: 70%;
+  margin: 0;
+}
